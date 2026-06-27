@@ -186,7 +186,6 @@ print(me.motto())
 🔷 FPGA Implementation       → Vivado Toolflow, Constraint Files, Resource Optimization
 📡 Digital Signal Processing → Filter Design, FFT, Signal Denoising Algorithms
 🤖 AI + Embedded Systems     → Edge AI, TinyML, Voice Activation on Microcontrollers
-🌐 Full Stack Development    → React, Node.js, REST APIs (from internship experience)
 ```
 
 ### 🌐 Connect With Me
